@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">KotlinでUIテスト</string>
+
+    <!-- レイアウト -->
+    <string name="what_input">何か入力してね(･∀･)</string>
+    <string name="click_button">確認してみる♪</string>
+
+    <!-- ダイアログ -->
+    <string name="error_title">残念…</string>
+    <string name="empty_error">空だぉ(´･ω･`)</string>
+    <string name="not_equal_error">違うぉ(´･ω･`)</string>
+
+    <string name="success_title">正解！</string>
+    <string name="success_message">やったね( `･ω･´)</string>
+
+    <string name="dismiss_button">OK</string>
+
+    <!-- 正解文言 -->
+    <string name="correct_answer">iwai</string>
+</resources>
